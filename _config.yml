@@ -1,0 +1,28 @@
+name: eringilley
+favicon: null
+layout_spectrum: 0.7420164095237851
+typography_spectrum: 0.8237520419061184
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.5125716417096555
+  lightness: 0.20171501301229
+  saturation: 0.915428003994748
+  rhythmicContrast: 0.5356283343862742
+purpose: []
